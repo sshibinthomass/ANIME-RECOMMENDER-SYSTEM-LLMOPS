@@ -1,1 +1,6 @@
 https://github.com/data-guru0/ANIME-RECOMMENDER-SYSTEM-LLMOPS
+
+Google Cloud (VM Instance)
+Docker
+Minikube
+Kubectl
